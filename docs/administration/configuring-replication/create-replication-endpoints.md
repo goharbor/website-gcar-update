@@ -22,7 +22,7 @@ You can also use an endpoint in a proxy cache project. Read more about how to [C
    - AWS Elastic Container Registry
    - Azure Container Registry
    - Ali Cloud Container Registry
-   - Google Container Registry
+   - Google Container Registry (and Google Cloud Artifact Registry)
    - Huawei SWR
    - Artifact Hub
    - Gitlab
