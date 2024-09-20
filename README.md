@@ -1,3 +1,5 @@
+### This repository is archived and may be deleted without notice in advance.
+
 # The Harbor website
 
 This repo houses the assets used to build the Harbor website, available at https://goharbor.io.
